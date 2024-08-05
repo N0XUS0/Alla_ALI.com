@@ -4,7 +4,7 @@ body{
     text-transform: capitalize;
   color: #fff;
   font-family: "Inconsolata", monospace;
-  background-image: url(/img/backimg.png);
+  background-image: url(img/backimg.png);
 background-size:contain  ;
 
   font-weight: bold;

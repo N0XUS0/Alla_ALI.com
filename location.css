@@ -6,7 +6,7 @@ body{
   font-family: "Inconsolata", monospace;
   
   font-weight: bold;
-  background-image: url(/img/backimg.png);
+  background-image: url(img/backimg.png);
   background-size:contain  ;
 
   }
